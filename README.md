@@ -45,3 +45,8 @@ int main() {
 The code executed successfully
 
 
+
+# RESULT:
+The code executed successfully
+
+
